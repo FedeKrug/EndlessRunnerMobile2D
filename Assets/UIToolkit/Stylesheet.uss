@@ -1,1 +1,3 @@
-VisualElement {}
+.miClase {
+    heigth: 250px;
+}
